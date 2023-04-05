@@ -4,7 +4,7 @@
   
   .background{
     background-image: url(https://via.placeholder.com/1920x1080.png);
-    height: 590px;
+    height: auto;
   }
   .navbar{
     text-align: center;
